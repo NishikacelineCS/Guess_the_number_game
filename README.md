@@ -24,7 +24,7 @@ The game provides hints if the guess is too high or too low, and it counts the n
 3. Run the game
 
    `python game.py`
-
+---
 ## Example Gameplay
 Screenshot 1
 <img width="1081" height="294" alt="Screenshot 2025-08-17 183130" src="https://github.com/user-attachments/assets/b4609e19-3259-435f-8c65-b18bd0b62f4f" />
